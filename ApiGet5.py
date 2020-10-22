@@ -25,4 +25,4 @@ def Ciudad_JSON(ciudad):
 
 if __name__ == "__main__":
 
-   Ciudad_JSON(sys.args[1])    
+   Ciudad_JSON(sys.argv[1])    
